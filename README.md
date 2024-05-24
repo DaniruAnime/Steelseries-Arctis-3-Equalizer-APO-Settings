@@ -18,7 +18,7 @@ RU: Скачайте и установите [Equalizer APO](https://sourceforge
 
 ## Documentation
 
-EN: Download and install [Equalizer APO](https://sourceforge.net/projects/equalizerapo)
+EN: Download and install [Equalizer APO](https://sourceforge.net/projects/equalizerapo).
 Then navigate to the folder where the equalizer was installed and find the "config" folder. Example: "C:\Equalizer APO\config"
 
 Find the "config.txt" file and replace it with the same file from this repository. In these settings, you'll likely need to replace the name of your headphones in the line "Device: Headphone", where "Headphone" is the name of the headphones. You can find the name of your headphones in the Control Panel under the "Sound" category.
